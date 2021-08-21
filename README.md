@@ -1,3 +1,3 @@
-<h1>To view blockie</h1>
-Open the .png file!
+<h1>This is my blockie</h1>
+<img src = "blockie.png">
 
